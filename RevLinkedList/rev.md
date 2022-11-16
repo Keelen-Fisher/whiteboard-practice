@@ -4,7 +4,7 @@
 
 ## Problem Domain
 
-- Reverse a linked List in place -> Function that takes in a linked list and returns the same linked list in reverse. 
+- Reverse a linked List in place -> Function that takes in a linked list and returns the same linked list in reverse.
 
 ## Input
 
